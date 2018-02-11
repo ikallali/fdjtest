@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FDJ Test</string>
+    <string name="action_settings">Reglage</string>
+    <string name="loading_rss_error">impossible de charger le flux RSS...</string>
+    <string name="read_more">Lire la suite</string>
+    <string name="loading">chargement...</string>
+    <string name="loading_image_error">erreur de chargment de l\'image</string>
+    <string name="rss_url_invalid">L\'URL du flux RSS est invalide...</string>
+    <string name="keywords">Mots-clés</string>
+    <string name="yes">Oui</string>
+    <string name="really_quit">Etes-vous sûr de vouloir quitter l\'application ?</string>
+    <string name="quit">Quitter</string>
+    <string name="no">Non</string>
+    <string name="ok">OK</string>
+</resources>
